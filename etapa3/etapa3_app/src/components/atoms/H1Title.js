@@ -5,6 +5,7 @@ export const StyledH1 = styled.h1`
   color: ${props => props.fontColor};
   font-size: 40px;
   margin-bottom: 10px;
+  width: 100%;
 `
 
 const H1Title = ({ title, fontColor }) => {

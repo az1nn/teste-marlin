@@ -21,7 +21,7 @@ const AboutUs = () => {
         <AboutUsCardContainer />
       </FullWidthContainer>
       <FullWidthContainer>
-        <LinkText>VOCÊ PODE LER A LEI COMPLETA <a>CLICANDO AQUI</a>.</LinkText>
+        <LinkText>VOCÊ PODE LER A LEI COMPLETA <a href='#'>CLICANDO AQUI</a>.</LinkText>
       </FullWidthContainer>
     </AboutUsContainer>
   );
